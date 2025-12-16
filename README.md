@@ -6,14 +6,15 @@ Ten repozytorium zawiera moje notatki z różnych dziedzin.
 
 ## Struktura katalogów
 
-- [AWS](./AWS/AWS.md): Opis notatek z dziedziny 1.
-- [Python](./Python/Python.md): Opis notatek z dziedziny 2.
 - [Ansible](./Ansible/Ansible.md): Opis notatek z dziedziny 3.
-- [Terraform](./Terraform): Inne notatki.
+- [AWS](./AWS/AWS.md): Opis notatek z dziedziny 1.
 - [Git](./Git/Git.md): Git basic commands
-- [Node](./Node/Node.md): Node menaging stuff
-- [Vault](./Vault/Vault.md): Vault from hasicorp
 - [LDAP](./LDAP/ldap.md): LDAP
+- [Node](./Node/Node.md): Node menaging stuff
+- [Python](./Python/Python.md): Opis notatek z dziedziny 2.
+- [SSH](./SSH/ssh.md): SSH key management
+- [Terraform](./Terraform): Inne notatki.
+- [Vault](./Vault/Vault.md): Vault from hasicorp
 
 ## Wkład
 
